@@ -81,7 +81,7 @@ vDeveloper
 
 - Change the salary of an employee with ID 5:
     ```sql
-    UPDATE employees SET salary = 50000 WHERE id = 5;
+    UPDATE employees SET salary = 15000 WHERE name =  "Jasvant Patel";
 
     ```
 - Update the address for employees in the 'Sales' role:
