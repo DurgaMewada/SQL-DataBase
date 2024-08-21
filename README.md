@@ -50,8 +50,6 @@ CREATE TABLE "employee" (
 
     ``` sql
     SELECT name, salary FROM employees;
-
-
     ```
 
   - Find employees with a particular role (e.g., Manager):
@@ -99,10 +97,15 @@ vDeveloper
 
     ```
 
-
-
 - Delete all employees under 20 (assuming it's not a valid age):
     ```sql
     DELETE FROM employees WHERE age < 20;
 
     ```
+
+## Table of Employees details 
+
+ <img src = "https://github.com/user-attachments/assets/2b4fad9c-f1c5-4158-8177-0a07ae5c94fc"  height=35% />
+
+
+  
